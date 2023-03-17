@@ -1,8 +1,8 @@
 {
-  "title": "ESICA",
-  "shortname": "CuratedStack",
+  "title": "Every Shit I Care About",
+  "shortname": "ESICA",
   "description": "A collection of all the I'm still thinking...",
-  "contact_link": "https://sangampanda.t.me/",
+  "contact_link": "https://telegram.me/sangampanda/",
   "hostname": "https://esica.pages.dev/",
   "icon": "/images/logos/icon.png",
   "floatingPrompt": {
@@ -11,7 +11,7 @@
     "bottom": "112px",
     "name": "Every Shit I Care About",
     "text": "Hi, do you like Esica? Don't forget to show your love on Telegram",
-    "url": "https://esicachannel.t.me/",
+    "url": "https://telegram.me/esicachannel/",
     "right": "32px",
     "disabled": false,
     "buttonText": "Esica on Telegram"
